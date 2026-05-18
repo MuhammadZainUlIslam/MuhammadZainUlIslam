@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1500&color=1A1A2E&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;System+Design+Enthusiast;Software+Architect;Software+Engineer)](https://github.com/MuhammadZainUlIslam)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1500&color=1A1A2E&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;System+Design+Enthusiast;Backend+Architect+in+Progress;Software+Engineer)](https://github.com/MuhammadZainUlIslam)
 
 <br/>
 
@@ -111,9 +111,19 @@ Secure backend system for campus operations built with Spring Boot and MySQL.
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadZainUlIslam&show_icons=true&theme=tokyonight&bg_color=050d1a&border_color=163050&title_color=4a5568&icon_color=6b7280&text_color=e2eaf5&count_private=true&hide_border=false" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZainUlIslam&layout=compact&theme=tokyonight&bg_color=050d1a&border_color=163050&title_color=4a5568&text_color=e2eaf5&hide_border=false&langs_count=6" />
 
-<br/><br/>
+</div>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=MuhammadZainUlIslam&theme=tokyonight&background=050d1a&border=163050&stroke=163050&ring=4a5568&fire=6b7280&currStreakNum=e2eaf5&sideNums=e2eaf5&currStreakLabel=4a5568&sideLabels=6b7280&dates=6b7280" />
+<br/>
+
+### 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadZainUlIslam/MuhammadZainUlIslam/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadZainUlIslam/MuhammadZainUlIslam/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/MuhammadZainUlIslam/MuhammadZainUlIslam/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
