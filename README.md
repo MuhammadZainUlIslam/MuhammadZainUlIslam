@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muhammad%20Zain%20Ul%20Islam&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muhammad%20Zain%20Ul%20Islam&fontSize=35&fontColor=2b2b2b" />
+</p>
 </p>
 
 <p align="center">
