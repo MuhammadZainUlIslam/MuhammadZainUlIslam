@@ -108,14 +108,12 @@ Secure backend system for campus operations built with Spring Boot and MySQL.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadZainUlIslam&show_icons=true&theme=tokyonight&bg_color=050d1a&border_color=163050&title_color=4a5568&icon_color=6b7280&text_color=e2eaf5&count_private=true&hide_border=false" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZainUlIslam&layout=compact&theme=tokyonight&bg_color=050d1a&border_color=163050&title_color=4a5568&text_color=e2eaf5&hide_border=false&langs_count=6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadZainUlIslam&show_icons=true&theme=tokyonight&bg_color=050d1a&border_color=163050&title_color=4a5568&icon_color=6b7280&text_color=e2eaf5&count_private=true&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZainUlIslam&layout=compact&theme=tokyonight&bg_color=050d1a&border_color=163050&title_color=4a5568&text_color=e2eaf5&langs_count=6&cache_seconds=86400" />
 
 </div>
 
-<br/>
-
-### 🐍 Contribution Activity
+### Contribution Activity
 
 <div align="center">
 
