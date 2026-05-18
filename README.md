@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1500&color=1A1A2E&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;System+Design+Enthusiast;Backend+Architect+in+Progress;Software+Engineer)](https://github.com/MuhammadZainUlIslam)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1500&color=1A1A2E&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;System+Design+Enthusiast;Software+Architect;Software+Engineer)](https://github.com/MuhammadZainUlIslam)
 
 <br/>
 
