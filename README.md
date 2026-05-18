@@ -1,47 +1,130 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zain Ul Islam</h1>
 
+<h3 align="center">Software Engineer | Java Backend Developer | Spring Boot | Microservices | System Design</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+Kafka+%7C+Microservices;System+Design+Enthusiast;Clean+Architecture+Builder" />
+Islamabad, Pakistan | 📧 zain.rebaso@gmail.com | 📱 +92 306 0009555  
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> • 
+<a href="https://github.com/MuhammadZainUlIslam">GitHub</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Software Engineering Graduate (2020–2025)
-- 💼 Java Intern at Evamp & Saanga (Islamabad)
-- ⚙️ Backend Developer focused on scalable systems
-- 🔐 Strong in Spring Boot, Security, JWT, OAuth2
-- 📡 Working on Event-Driven Architecture (Kafka)
-- 🧠 Passionate about system design & distributed systems
+Software Engineer specializing in **backend systems, web services, and scalable applications**.  
+Experienced in **Spring Boot, Flask, and Next.js**, with strong focus on:
+
+- RESTful API development
+- Backend architecture & system design
+- Secure authentication systems
+- Real-time data-driven applications
+
+I enjoy building **production-ready, scalable software systems** and working in collaborative environments.
 
 ---
 
 ## 🛠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Languages:** Java, Python, JavaScript, SQL  
+**Backend:** Spring Boot, Flask, Spring Security, REST APIs  
+**Frontend:** Next.js (basic-intermediate)  
+**Database:** MySQL  
+**Concepts:** Microservices, JWT, OAuth2, System Design  
+**Tools:** Git, GitHub, Maven, Postman, LaTeX
 
 ---
 
-## 📌 Current Focus (Live)
+## 💼 Experience
 
-- 🔄 Microservices with Spring Boot
-- 📡 Kafka Event Streaming Systems
-- 🔐 Secure Authentication (JWT + OAuth2)
-- 🧱 System Design & Scalable Architecture
+### 🟢 Java Intern — Evamp & Saanga (Islamabad)
+📅 Dec 2025 – Present  
+**Tech:** Spring Boot
+
+- Built Spring Boot MVC applications using Controller, Service, Repository layers
+- Designed and executed custom native SQL queries with MySQL
+- Integrated third-party REST APIs for data processing
+- Implemented CRUD-based microservices architecture
+- Developed secure authentication using JWT + Spring Security
+- Applied dependency injection and validation for maintainable code
+
+---
+
+### 🔵 Project Lead — Al-Qawi Steels (FYP)
+📅 Aug 2023 – Jul 2024  
+**Tech:** Flask, OpenCV, PyTorch, NumPy
+
+- Led development of Intelligent Vehicle Parking System (IVPS)
+- Implemented real-time parking detection using image processing
+- Integrated CCTV streams with backend monitoring system
+- Designed full system architecture, UML diagrams, and documentation
+- Created Figma-based UI prototypes and system workflows
+
+---
+
+## 🎓 Education
+
+- 🎓 BS Software Engineering — Foundation University Islamabad (2020–2025)
+- 📘 FSc Pre-Engineering — STEPS College Rawalpindi (2017–2019)
+- 🏫 Matric Computer Science — Fazaia Inter College Nur Khan (2015–2017)
+
+---
+
+## 🏆 Certifications
+
+- JWT Authentication Bootcamp — Coursera (Packt)
+- Spring Boot MVC Architecture — Coursera (Board Infinity)
+- Cloud Computing — IBM
+- Software Engineering Fundamentals — IBM
+- Research Methods — Northwestern Polytechnical University
+
+---
+
+## 🧠 Skills Summary
+
+- Spring Boot (Advanced)
+- MySQL (Advanced)
+- Python (Intermediate)
+- Next.js (Intermediate)
+- LaTeX (Intermediate)
+- Adobe Suite (Advanced)
+- English B2 (Duolingo 129)
+- Spanish A1
+- Arabic A1
+
+---
+
+## 📌 Featured Projects
+
+### 📡 Kafka Library Event System
+[🔗 View Repository](https://github.com/MuhammadZainUlIslam/kafka-springboot-library-events)
+
+Spring Boot + Kafka based event-driven architecture project for library management system.
+
+---
+
+### 🔐 Spring Security JWT OAuth2 System
+[🔗 View Repository](https://github.com/MuhammadZainUlIslam/spring-security-jwt-oauth2-aop)
+
+Secure authentication system using JWT, OAuth2, AOP, and role-based access control.
+
+---
+
+### 🏫 Secure Campus Management System
+[🔗 View Repository](https://github.com/MuhammadZainUlIslam/secure-campus-management-system)
+
+Backend system for campus operations with authentication, roles, and secure APIs.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadZainUlIslam&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZainUlIslam&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -49,28 +132,15 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadZainUlIslam&theme=tokyo-night" />
 </p>
 
 ---
 
-## 👨‍💻 Featured Projects
-
-### 📡 Kafka Library Event System
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=library-events-producer&theme=tokyonight" />
-</p>
-
-### 🅿️ Intelligent Vehicle Parking System (IVPS)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=IVPS-System&theme=tokyonight" />
-</p>
-
----
-
-## 🧠 Currently Building
+## ⚡ Currently Working On
 
 ```text
-⚡ Kafka-based distributed systems
-⚡ Secure Spring Boot APIs
-⚡ Real-world backend architecture projects
+- Microservices architecture with Spring Boot
+- Kafka-based event-driven systems
+- Secure authentication systems (JWT + OAuth2)
+- Scalable backend system design
