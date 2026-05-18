@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zain Ul Islam</h1>
 
-<h3 align="center">Software Engineer | Java Backend Developer | Spring Boot | Microservices | System Design</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=Software+Engineer;Java+Backend+Developer;Spring+Boot+Developer;Microservices+Architect;System+Design+Enthusiast" />
+</p>
 <p align="center">
 Islamabad, Pakistan | 📧 zain.rebaso@gmail.com | 📱 +92 306 0009555  
 </p>
