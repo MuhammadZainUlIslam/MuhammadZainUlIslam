@@ -23,6 +23,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Fix permissions
+        run: sudo chmod -R 777 dist
+
       - name: Push output branch
         run: |
           cd dist
