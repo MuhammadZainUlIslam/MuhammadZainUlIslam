@@ -1,147 +1,102 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zain Ul Islam</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=Software+Engineer;Java+Backend+Developer;Spring+Boot+Developer;Microservices+Architect;System+Design+Enthusiast" />
-</p>
-<p align="center">
-Islamabad, Pakistan | 📧 zain.rebaso@gmail.com | 📱 +92 306 0009555  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muhammad%20Zain%20Ul%20Islam&fontSize=35&fontColor=ffffff" />
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> • 
-<a href="https://github.com/MuhammadZainUlIslam">GitHub</a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Backend+Developer;Spring+Boot+%7C+Microservices;System+Design+Enthusiast;Backend+Architect+in+Progress" />
+</p>
+
+<p align="center">
+  📍 Islamabad, Pakistan | 📧 zain.rebaso@gmail.com | 📱 +92 306 0009555
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MuhammadZainUlIslam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
+## 🧠 About Me
 
-## 🚀 About Me
+💻 Backend Engineer focused on **scalable distributed systems**
 
-Software Engineer specializing in **backend systems, web services, and scalable applications**.  
-Experienced in **Spring Boot, Flask, and Next.js**, with strong focus on:
+I design and build:
+- ⚡ High-performance REST APIs
+- 🔐 Secure authentication systems
+- 📡 Event-driven microservices
+- 🧱 Clean, production-ready architectures
 
-- RESTful API development
-- Backend architecture & system design
-- Secure authentication systems
-- Real-time data-driven applications
+I enjoy turning complex backend problems into **simple scalable systems**.
 
-I enjoy building **production-ready, scalable software systems** and working in collaborative environments.
-
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=2" />
+</p>
 ## 🛠 Tech Stack
 
-**Languages:** Java, Python, JavaScript, SQL  
-**Backend:** Spring Boot, Flask, Spring Security, REST APIs  
-**Frontend:** Next.js (basic-intermediate)  
-**Database:** MySQL  
-**Concepts:** Microservices, JWT, OAuth2, System Design  
-**Tools:** Git, GitHub, Maven, Postman, LaTeX
+**Backend**
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 
----
+**Architecture**
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-1f1f1f?style=for-the-badge)
 
+**Database**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 ## 💼 Experience
 
-### 🟢 Java Intern — Evamp & Saanga (Islamabad)
-📅 Dec 2025 – Present  
-**Tech:** Spring Boot
+### 🟢 Java Intern — Evamp & Saanga
+📍 Islamabad | Dec 2025 – Present
 
-- Built Spring Boot MVC applications using Controller, Service, Repository layers
-- Designed and executed custom native SQL queries with MySQL
-- Integrated third-party REST APIs for data processing
-- Implemented CRUD-based microservices architecture
-- Developed secure authentication using JWT + Spring Security
-- Applied dependency injection and validation for maintainable code
+- Spring Boot MVC architecture (Controller → Service → Repository)
+- MySQL integration + native queries
+- REST API development & third-party integrations
+- JWT authentication using Spring Security
+- Microservices-based design practice
 
 ---
 
 ### 🔵 Project Lead — Al-Qawi Steels (FYP)
-📅 Aug 2023 – Jul 2024  
-**Tech:** Flask, OpenCV, PyTorch, NumPy
+📍 Islamabad | Aug 2023 – Jul 2024
 
-- Led development of Intelligent Vehicle Parking System (IVPS)
-- Implemented real-time parking detection using image processing
-- Integrated CCTV streams with backend monitoring system
-- Designed full system architecture, UML diagrams, and documentation
-- Created Figma-based UI prototypes and system workflows
+- Built Intelligent Vehicle Parking System (Flask + OpenCV)
+- Real-time CCTV-based detection system
+- REST APIs for monitoring system
+- System design, UML diagrams, documentation, Figma UI
+## 🚀 Featured Projects
 
----
-
-## 🎓 Education
-
-- 🎓 BS Software Engineering — Foundation University Islamabad (2020–2025)
-- 📘 FSc Pre-Engineering — STEPS College Rawalpindi (2017–2019)
-- 🏫 Matric Computer Science — Fazaia Inter College Nur Khan (2015–2017)
+### 📡 Kafka Event System
+👉 https://github.com/MuhammadZainUlIslam/kafka-springboot-library-events
+Event-driven library system using Spring Boot + Kafka
 
 ---
 
-## 🏆 Certifications
-
-- JWT Authentication Bootcamp — Coursera (Packt)
-- Spring Boot MVC Architecture — Coursera (Board Infinity)
-- Cloud Computing — IBM
-- Software Engineering Fundamentals — IBM
-- Research Methods — Northwestern Polytechnical University
+### 🔐 Security System (JWT + OAuth2 + AOP)
+👉 https://github.com/MuhammadZainUlIslam/spring-security-jwt-oauth2-aop
+Enterprise-level authentication & authorization system
 
 ---
 
-## 🧠 Skills Summary
-
-- Spring Boot (Advanced)
-- MySQL (Advanced)
-- Python (Intermediate)
-- Next.js (Intermediate)
-- LaTeX (Intermediate)
-- Adobe Suite (Advanced)
-- English B2 (Duolingo 129)
-- Spanish A1
-- Arabic A1
-
----
-
-## 📌 Featured Projects
-
-### 📡 Kafka Library Event System
-[🔗 View Repository](https://github.com/MuhammadZainUlIslam/kafka-springboot-library-events)
-
-Spring Boot + Kafka based event-driven architecture project for library management system.
-
----
-
-### 🔐 Spring Security JWT OAuth2 System
-[🔗 View Repository](https://github.com/MuhammadZainUlIslam/spring-security-jwt-oauth2-aop)
-
-Secure authentication system using JWT, OAuth2, AOP, and role-based access control.
-
----
-
-### 🏫 Secure Campus Management System
-[🔗 View Repository](https://github.com/MuhammadZainUlIslam/secure-campus-management-system)
-
-Backend system for campus operations with authentication, roles, and secure APIs.
-
----
-
-## 📊 GitHub Stats
+### 🏫 Campus Management System
+👉 https://github.com/MuhammadZainUlIslam/secure-campus-management-system
+Secure backend system for campus operations
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadZainUlIslam&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZainUlIslam&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadZainUlIslam&theme=tokyonight&show_icons=true" />
 </p>
-
----
-
-## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadZainUlIslam&theme=tokyo-night" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadZainUlIslam&theme=tokyonight" />
 </p>
-
----
-
-## ⚡ Currently Working On
-
-```text
-- Microservices architecture with Spring Boot
-- Kafka-based event-driven systems
-- Secure authentication systems (JWT + OAuth2)
-- Scalable backend system design
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
+</p>
