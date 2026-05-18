@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,50:0a1e3d,100:0e2a55&height=220&section=header&text=Muhammad%20Zain%20Ul%20Islam&fontSize=40&fontColor=00b4ff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Backend%20Developer&descAlignY=58&descSize=18&descColor=7b8fa8&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,50:0a1e3d,100:0e2a55&height=220&section=header&text=Muhammad%20Zain%20Ul%20Islam&fontSize=40&fontColor=4a5568&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Backend%20Developer&descAlignY=58&descSize=18&descColor=6b7280&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00B4FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;System+Design+Enthusiast;Backend+Architect+in+Progress;Software+Engineer)](https://github.com/MuhammadZainUlIslam)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=4A5568&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;System+Design+Enthusiast;Backend+Architect+in+Progress;Software+Engineer)](https://github.com/MuhammadZainUlIslam)
 
 <br/>
 
@@ -91,9 +91,9 @@
 
 <div align="center">
 
-[![Kafka Event System](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZainUlIslam&repo=kafka-springboot-library-events&theme=tokyonight&bg_color=050d1a&border_color=163050&title_color=00b4ff&icon_color=7b5cf0&text_color=7a8fa8)](https://github.com/MuhammadZainUlIslam/kafka-springboot-library-events)
-[![Security System](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZainUlIslam&repo=spring-security-jwt-oauth2-aop&theme=tokyonight&bg_color=050d1a&border_color=163050&title_color=00b4ff&icon_color=7b5cf0&text_color=7a8fa8)](https://github.com/MuhammadZainUlIslam/spring-security-jwt-oauth2-aop)
-[![Campus Management](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZainUlIslam&repo=secure-campus-management-system&theme=tokyonight&bg_color=050d1a&border_color=163050&title_color=00b4ff&icon_color=7b5cf0&text_color=7a8fa8)](https://github.com/MuhammadZainUlIslam/secure-campus-management-system)
+[![Kafka Event System](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZainUlIslam&repo=kafka-springboot-library-events&theme=tokyonight&bg_color=050d1a&border_color=163050&title_color=4a5568&icon_color=6b7280&text_color=7a8fa8)](https://github.com/MuhammadZainUlIslam/kafka-springboot-library-events)
+[![Security System](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZainUlIslam&repo=spring-security-jwt-oauth2-aop&theme=tokyonight&bg_color=050d1a&border_color=163050&title_color=4a5568&icon_color=6b7280&text_color=7a8fa8)](https://github.com/MuhammadZainUlIslam/spring-security-jwt-oauth2-aop)
+[![Campus Management](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZainUlIslam&repo=secure-campus-management-system&theme=tokyonight&bg_color=050d1a&border_color=163050&title_color=4a5568&icon_color=6b7280&text_color=7a8fa8)](https://github.com/MuhammadZainUlIslam/secure-campus-management-system)
 
 </div>
 
@@ -103,12 +103,12 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadZainUlIslam&show_icons=true&theme=tokyonight&bg_color=050d1a&border_color=163050&title_color=00b4ff&icon_color=7b5cf0&text_color=e2eaf5&count_private=true&hide_border=false" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZainUlIslam&layout=compact&theme=tokyonight&bg_color=050d1a&border_color=163050&title_color=00b4ff&text_color=e2eaf5&hide_border=false&langs_count=6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadZainUlIslam&show_icons=true&theme=tokyonight&bg_color=050d1a&border_color=163050&title_color=4a5568&icon_color=6b7280&text_color=e2eaf5&count_private=true&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZainUlIslam&layout=compact&theme=tokyonight&bg_color=050d1a&border_color=163050&title_color=4a5568&text_color=e2eaf5&hide_border=false&langs_count=6" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=MuhammadZainUlIslam&theme=tokyonight&background=050d1a&border=163050&stroke=163050&ring=00b4ff&fire=00e5a0&currStreakNum=e2eaf5&sideNums=e2eaf5&currStreakLabel=00b4ff&sideLabels=7a8fa8&dates=7a8fa8" />
+<img width="70%" src="https://streak-stats.demolab.com?user=MuhammadZainUlIslam&theme=tokyonight&background=050d1a&border=163050&stroke=163050&ring=4a5568&fire=6b7280&currStreakNum=e2eaf5&sideNums=e2eaf5&currStreakLabel=4a5568&sideLabels=6b7280&dates=6b7280" />
 
 </div>
 
