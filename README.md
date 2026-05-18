@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,50:0a1e3d,100:0e2a55&height=220&section=header&text=Muhammad%20Zain%20Ul%20Islam&fontSize=40&fontColor=4a5568&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Backend%20Developer&descAlignY=58&descSize=18&descColor=6b7280&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,50:0a1e3d,100:0e2a55&height=220&section=header&text=Muhammad%20Zain%20Ul%20Islam&fontSize=40&fontColor=1a1a2e&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Backend%20Developer&descAlignY=58&descSize=18&descColor=2d2d2d&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=4A5568&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;System+Design+Enthusiast;Backend+Architect+in+Progress;Software+Engineer)](https://github.com/MuhammadZainUlIslam)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1500&color=1A1A2E&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;System+Design+Enthusiast;Backend+Architect+in+Progress;Software+Engineer)](https://github.com/MuhammadZainUlIslam)
 
 <br/>
 
@@ -89,13 +89,18 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 📡 [kafka-springboot-library-events](https://github.com/MuhammadZainUlIslam/kafka-springboot-library-events)
+Kafka-based Spring Boot Library Events Producer that publishes library events to a Kafka topic via REST API. Supports async event publishing, multiple producer approaches, and integration testing.
 
-[![Kafka Event System](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZainUlIslam&repo=kafka-springboot-library-events&theme=tokyonight&bg_color=050d1a&border_color=163050&title_color=4a5568&icon_color=6b7280&text_color=7a8fa8)](https://github.com/MuhammadZainUlIslam/kafka-springboot-library-events)
-[![Security System](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZainUlIslam&repo=spring-security-jwt-oauth2-aop&theme=tokyonight&bg_color=050d1a&border_color=163050&title_color=4a5568&icon_color=6b7280&text_color=7a8fa8)](https://github.com/MuhammadZainUlIslam/spring-security-jwt-oauth2-aop)
-[![Campus Management](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZainUlIslam&repo=secure-campus-management-system&theme=tokyonight&bg_color=050d1a&border_color=163050&title_color=4a5568&icon_color=6b7280&text_color=7a8fa8)](https://github.com/MuhammadZainUlIslam/secure-campus-management-system)
+---
 
-</div>
+### 🔐 [spring-security-jwt-oauth2-aop](https://github.com/MuhammadZainUlIslam/spring-security-jwt-oauth2-aop)
+Spring Boot authentication system implementing JWT and OAuth2 (Google & GitHub) with Spring Security. Includes role-based access control and AOP-based logging for request tracing.
+
+---
+
+### 🏫 [secure-campus-management-system](https://github.com/MuhammadZainUlIslam/secure-campus-management-system)
+Secure backend system for campus operations built with Spring Boot and MySQL.
 
 ---
 
