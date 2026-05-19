@@ -22,7 +22,7 @@
 ## 🧠 About Me
 
 ```
-> Backend Engineer focused on scalable distributed systems
+> Software Engineer focused on scalable distributed systems
 ```
 
 💻 I design and build:
