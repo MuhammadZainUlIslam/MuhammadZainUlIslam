@@ -108,9 +108,13 @@ Secure backend system for campus operations built with Spring Boot and MySQL.
 
 
 <div align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MuhammadZainUlIslam&theme=tokyonight" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadZainUlIslam&theme=tokyo-night" />
+<img width="49%" src="https://streak-stats.demolab.com?user=MuhammadZainUlIslam&theme=tokyonight" />
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadZainUlIslam&theme=tokyo-night" />
+
+</div>
 
 </div>
 
