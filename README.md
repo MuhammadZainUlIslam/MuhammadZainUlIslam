@@ -104,6 +104,7 @@ Spring Boot authentication system implementing JWT and OAuth2 (Google & GitHub) 
 
 ### 🏫 [secure-campus-management-system](https://github.com/MuhammadZainUlIslam/secure-campus-management-system)
 Secure backend system for campus operations — JWT auth (access + refresh tokens), HMAC request integrity, RBAC/PBAC authorization, Hazelcast distributed caching, AOP logging, and HTTPS/SSL. Built with Java 21, Spring Boot, Spring Security, Hibernate, and MySQL.
+
 ---
 
 ## 📊 GitHub Analytics
