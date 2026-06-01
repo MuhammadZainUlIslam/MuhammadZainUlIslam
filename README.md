@@ -86,11 +86,14 @@
 - System design, UML diagrams, documentation, Figma UI
 
 ---
-
 ## 🚀 Featured Projects
 
-### 📡 [kafka-springboot-library-events](https://github.com/MuhammadZainUlIslam/kafka-springboot-library-events)
+### 📡 [kafka-springboot-library-events-producer](https://github.com/MuhammadZainUlIslam/kafka-springboot-library-events)
 Kafka-based Spring Boot Library Events Producer that publishes library events to a Kafka topic via REST API. Supports async event publishing, multiple producer approaches, and integration testing.
+
+---
+### 📡 [kafka-springboot-library-events-consumer](https://github.com/MuhammadZainUlIslam/library-events-consumer)
+Kafka-based Spring Boot Library Events Consumer that listens to library events from a Kafka topic and processes them asynchronously. Implements robust deserialization, error handling, and retry-aware message consumption using Spring Kafka listener infrastructure.
 
 ---
 
