@@ -66,8 +66,20 @@
 
 ## 💼 Experience
 
-### 🟢 Java Intern — Evamp & Saanga
-📍 Islamabad &nbsp;|&nbsp; 🗓 Dec 2025 – Present
+### 🟢 Java Developer — Rebaso Engineering
+📍 Islamabad &nbsp;|&nbsp; 🗓 Jul 2026 – Present
+
+- Designing and building Spring Boot e-commerce platform inspired by Amazon
+- Architecting core modules: product management, category management, product variants, pricing, and warehouse/inventory tracking
+- Implementing secure JWT authentication with Spring Security and HMAC-based request validation
+- Building event-driven patterns internally with Apache Kafka for async processing
+- Integrating **MinIO** (S3-compatible object storage) for product image storage via a custom storage abstraction layer
+- Implementing **Email authentication** flows for user verification
+- Containerizing services with Docker and working with MySQL via Spring Data JPA (native + JPQL queries)
+
+---
+### 🔵 Java Intern — Evamp & Saanga
+📍 Islamabad &nbsp;|&nbsp; 🗓 Dec 2025 – June 2026
 
 - Spring Boot MVC architecture (Controller → Service → Repository)
 - MySQL integration + native queries
@@ -87,6 +99,11 @@
 
 ---
 ## 🚀 Featured Projects
+
+### 🛒 MightyCart *(Private Repository)*
+Monolithic Spring Boot e-commerce platform inspired by Amazon — under development at Rebaso Engineering. Covers product management, category-based product variants (color, size, storage, etc.), pricing, and warehouse/inventory tracking, with JWT + HMAC-secured APIs, MinIO-backed image storage, SMTP email authentication, and Kafka-driven async event handling.
+
+---
 
 ### 📡 [kafka-springboot-library-events-producer](https://github.com/MuhammadZainUlIslam/kafka-springboot-library-events)
 Kafka-based Spring Boot Library Events Producer that publishes library events to a Kafka topic via REST API. Supports async event publishing, multiple producer approaches, and integration testing.
