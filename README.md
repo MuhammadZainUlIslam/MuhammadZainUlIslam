@@ -133,13 +133,11 @@ Secure backend system for campus operations — JWT auth (access + refresh token
 
 ### Contribution Activity
 
+### 🎮 Space Shooter
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadZainUlIslam/MuhammadZainUlIslam/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadZainUlIslam/MuhammadZainUlIslam/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/MuhammadZainUlIslam/MuhammadZainUlIslam/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="./game.gif" alt="space shooter game" width="600" />
 
 </div>
 
