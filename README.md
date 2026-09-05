@@ -133,11 +133,9 @@ Secure backend system for campus operations — JWT auth (access + refresh token
 
 ### Contribution Activity
 
-### 🎮 Space Shooter
-
 <div align="center">
 
-<img src="./game.gif" alt="space shooter game" width="600" />
+<img alt="space shooter game" src="./game.gif" />
 
 </div>
 
