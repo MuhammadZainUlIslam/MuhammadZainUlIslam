@@ -128,8 +128,7 @@ Secure backend system for campus operations — JWT auth (access + refresh token
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadZainUlIslam&theme=tokyo-night" />
-
+<img width="98%" src="https://github-readme-activity-graph-omega-ochre.vercel.app/graph?username=MuhammadZainUlIslam&theme=tokyo-night" />
 </div>
 
 ### Contribution Activity
