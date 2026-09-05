@@ -135,7 +135,7 @@ Secure backend system for campus operations — JWT auth (access + refresh token
 
 <div align="center">
 
-<img src="./profile/streak.svg" alt="GitHub Streak" />
+<img src="./profile/streak.svg" alt="GitHub Streak" width="65%" />
 
 </div>
 
