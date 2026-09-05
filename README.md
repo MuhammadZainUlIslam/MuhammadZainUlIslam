@@ -131,6 +131,14 @@ Secure backend system for campus operations — JWT auth (access + refresh token
 <img width="98%" src="https://github-readme-activity-graph-omega-ochre.vercel.app/graph?username=MuhammadZainUlIslam&theme=tokyo-night" />
 </div>
 
+### 🔥 Streak Stats
+
+<div align="center">
+
+<img src="./profile/streak.svg" alt="GitHub Streak" />
+
+</div>
+
 ### Contribution Activity
 
 <div align="center">
