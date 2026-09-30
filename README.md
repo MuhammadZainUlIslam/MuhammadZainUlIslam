@@ -7,10 +7,6 @@
 </picture>
 
 <p>
-  Java &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Flutter &nbsp;·&nbsp; Dart
-</p>
-
-<p>
   Islamabad, Pakistan &nbsp;·&nbsp;
   <a href="mailto:zain.rebaso@gmail.com">Email</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/muhammad-zain-ul-islam-rebaso/">LinkedIn</a>
@@ -86,12 +82,11 @@ A producer and consumer project exploring asynchronous event publishing and proc
 
 - Developing a Spring Boot e-commerce platform with modular product, pricing, and inventory services.
 - Implementing authentication and verification flows with Spring Security and JWT.
-- Integrating MinIO object storage, Kafka-based processing, and MySQL persistence.
+- Integrating MinIO object storage, and MySQL persistence.
 - Building responsive Flutter screens for registration, OTP verification, login, and warehouse management.
 - Organizing frontend features with Clean Architecture and MVVM-style presentation using Riverpod.
 - Integrating Spring Boot APIs through Dio, with authentication interceptors, secure token storage, automatic token refresh, and network error handling.
 - Implementing form validation and warehouse bin navigation with accordion cards, internal scrolling, and backend pagination.
-- Containerizing backend services with Docker.
 
 ### Java Intern · Evamp & Saanga
 
@@ -106,7 +101,7 @@ A producer and consumer project exploring asynchronous event publishing and proc
 
 **Final Year Project · In collaboration with Al-Qawi Steels**
 
-- Built a CCTV-based vehicle detection system using Flask and OpenCV.
+- Built a CCTV-based vehicle detection and Parking lots availability status detection system using Flask and OpenCV.
 - Developed backend APIs for monitoring and operations.
 - Led system design, UML modeling, documentation, and Figma UI design.
 
@@ -115,6 +110,15 @@ A producer and consumer project exploring asynchronous event publishing and proc
 **BS Software Engineering**  
 Foundation University Islamabad · 2020 – 2025
 
+## GitHub Analytics
+
+### Streak Stats
+
+<div align="center">
+
+<img src="./profile/streak.svg" alt="GitHub contribution streak" width="65%" />
+
+</div>
 ---
 
 <p align="center">
