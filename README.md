@@ -112,6 +112,13 @@ Foundation University Islamabad · 2020 – 2025
 
 ## GitHub Analytics
 
+### Contribution Activity
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph-omega-ochre.vercel.app/graph?username=MuhammadZainUlIslam&amp;theme=tokyo-night" alt="GitHub contribution activity graph" />
+
+</div>
 ### Streak Stats
 
 <div align="center">
@@ -119,7 +126,6 @@ Foundation University Islamabad · 2020 – 2025
 <img src="./profile/streak.svg" alt="GitHub contribution streak" width="65%" />
 
 </div>
----
 
 <p align="center">
   Interested in full-stack development opportunities or collaboration?<br>
