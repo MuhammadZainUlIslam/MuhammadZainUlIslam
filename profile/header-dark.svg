@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+<title id="title">Muhammad Zain Ul Islam</title>
+<desc id="desc">Software Engineer and FullStack Developer working with Java, Spring Boot, Flutter, and Dart</desc>
+<rect x="1" y="1" width="958" height="238" rx="16" fill="#0D1117" stroke="#24344B"/>
+<rect x="40" y="48" width="4" height="144" rx="2" fill="#7AA2F7"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="66" y="73" font-size="13" letter-spacing="2.5" font-weight="600" fill="#7AA2F7">FULL-STACK DEVELOPMENT</text>
+<text x="64" y="129" font-size="42" font-weight="700" fill="#E6EDF3">Muhammad Zain Ul Islam</text>
+<text x="66" y="171" font-size="21" fill="#A8B5C6">Software Engineer · FullStack Developer</text>
+<text x="66" y="207" font-size="15" fill="#A8B5C6">Java · Spring Boot · Flutter · Dart</text>
+</g>
+<g fill="none" stroke="#24344B" stroke-width="2">
+<rect x="802" y="56" width="104" height="44" rx="8"/>
+<rect x="802" y="112" width="104" height="44" rx="8"/>
+<path d="M854 100v12M854 156v24h-52"/>
+</g>
+<g fill="#7AA2F7"><circle cx="820" cy="78" r="3"/><circle cx="820" cy="134" r="3"/><circle cx="802" cy="180" r="3"/></g>
+<g stroke="#A8B5C6" stroke-width="2" stroke-linecap="round"><path d="M837 78h48M837 134h48"/></g>
+</svg>
