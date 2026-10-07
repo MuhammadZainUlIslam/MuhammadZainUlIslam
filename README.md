@@ -119,6 +119,19 @@ Foundation University Islamabad · 2020 – 2025
 <img width="98%" src="https://github-readme-activity-graph-omega-ochre.vercel.app/graph?username=MuhammadZainUlIslam&amp;theme=tokyo-night" alt="GitHub contribution activity graph" />
 
 </div>
+
+### Monthly Contributions — Last 12 Months
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/monthly-contributions-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/monthly-contributions-light.svg">
+  <img src="./profile/monthly-contributions-light.svg" alt="GitHub contributions by month over the last 12 months" width="98%">
+</picture>
+
+</div>
+
 ### Streak Stats
 
 <div align="center">
